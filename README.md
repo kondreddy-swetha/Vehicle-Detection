@@ -1,0 +1,1 @@
+This project implements a vehicle detection and counting system using OpenCV. The system detects vehicles in a video stream or a recorded video file and counts the number of vehicles passing through a designated area. It utilizes computer vision techniques and pre-trained machine learning models to achieve accurate detection and counting.
